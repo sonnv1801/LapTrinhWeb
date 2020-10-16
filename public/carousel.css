@@ -1,0 +1,9 @@
+.carousel-inner img{
+  width: 1366px;
+  height: 569px;
+}
+.carousel-caption span{
+  font-size: 200%;
+  color: #f1f1f1;
+  text-align: right;
+}
